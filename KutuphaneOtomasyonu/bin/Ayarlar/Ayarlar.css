@@ -1,0 +1,26 @@
+#kaydetButonu
+{
+	-fx-background-color: #43A047;
+	-fx-text-fill: white; 
+	
+}
+
+#kaydetButonu:hover
+{
+	-fx-background-color: #64DD17;
+	
+}
+
+#iptalButonu
+{
+	-fx-background-color: #c62828;
+	
+	-fx-text-fill: white; 
+}
+
+#iptalButonu:hover
+{
+	-fx-background-color: #F4511E;
+	
+	
+}

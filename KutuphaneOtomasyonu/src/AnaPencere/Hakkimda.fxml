@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="300.0" maxWidth="301.0" prefHeight="164.0" prefWidth="264.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111">
+   <children>
+      <Label layoutX="36.0" layoutY="29.0" prefHeight="26.0" prefWidth="57.0" text="Yapım :">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <JFXTextField editable="false" layoutX="110.0" layoutY="28.0" prefHeight="11.0" prefWidth="135.0" text="MEVLANA YALÇIN">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+         <effect>
+            <Bloom />
+         </effect>
+      </JFXTextField>
+      <Label layoutX="36.0" layoutY="69.0" prefHeight="26.0" prefWidth="57.0" text="Tarih :">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <Label layoutX="36.0" layoutY="105.0" prefHeight="34.0" prefWidth="57.0" text="Eğitim :">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Label>
+      <JFXTextField editable="false" layoutX="110.0" layoutY="69.0" prefHeight="11.0" prefWidth="135.0" text="AĞUSTOS 2017">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+         <effect>
+            <Bloom />
+         </effect>
+      </JFXTextField>
+      <JFXTextField editable="false" layoutX="110.0" layoutY="108.0" prefHeight="18.0" prefWidth="187.0" text="MEVLANA YALÇIN YOUTUBE KANALI">
+         <font>
+            <Font name="System Bold" size="10.0" />
+         </font>
+         <effect>
+            <Bloom />
+         </effect>
+      </JFXTextField>
+   </children>
+</AnchorPane>

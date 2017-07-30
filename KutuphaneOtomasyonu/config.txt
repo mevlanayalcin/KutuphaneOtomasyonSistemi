@@ -1,0 +1,1 @@
+{"maksimumGunSayisi":30,"gunBasiCeza":0.5,"kullaniciadi":"mevlana","password":"4087f8fddda76bb80488216d28d2d0413e6cbe50"}

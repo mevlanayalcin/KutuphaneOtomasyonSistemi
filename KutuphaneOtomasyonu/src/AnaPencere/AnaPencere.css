@@ -1,0 +1,38 @@
+#araButonu
+{
+	-fx-background-color: #757575;
+	-fx-text-fill: white; 
+	
+}
+
+#araButonu:hover
+{
+	-fx-background-color: #BDBDBD;
+	
+}
+
+#yenileButonu
+{
+	-fx-background-color: #757575;
+	-fx-text-fill: white; 
+}
+
+#yenileButonu:hover
+{
+	-fx-background-color: #BDBDBD;
+	
+	
+}
+
+#submissionButonu
+{
+	-fx-background-color: #757575;
+	-fx-text-fill: white; 
+}
+
+#submissionButonu:hover
+{
+	-fx-background-color: #BDBDBD;
+	
+	
+}
