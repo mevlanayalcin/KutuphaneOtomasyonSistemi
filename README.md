@@ -30,6 +30,9 @@ JavaFX kullanarak kütüphane otomasyonu oluşturma
 5)Projeyi yaparken internette yapılmış projeleri base aldım UI dizaynı internetteki projelere benzeyebilir.
 
 
+Youtube anlatım linki:https://youtu.be/4-MHhm-jLzw
+
+
 
 
 
